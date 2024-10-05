@@ -1,1 +1,1 @@
-web: python Veer.py
+web: python veer.py
